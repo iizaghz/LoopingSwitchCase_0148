@@ -19,8 +19,6 @@ int main (){
         cout << "Pilih (1/2/3) : ";
         cin >> pilihan;
 
-        
-
         switch(pilihan){
             case 1 :
             cout << "Menghitung Luas Persegi Panjang" << endl;
